@@ -1,4 +1,12 @@
-Install by placing in ~/Library/Scripts/Applications/Mail
+
+Installing:
+
+- Click on the Archive Selected Messages by Date.applescript in the file list above
+- Right click on the 'Raw' button at the top of the file listing
+- Select Download Linked File
+- In Finder us the Go > Go to Folder.. menu item and enter ~/Library
+- In the Library folder, create a Scripts > Applications > Mail folder hierarchy
+- Move the downloaded folder into the Mail folder
  
 You can then invoke a couple different ways:
 
